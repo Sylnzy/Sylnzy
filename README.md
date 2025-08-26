@@ -41,6 +41,19 @@ A simple web app built with **Flask & MySQL** to compress images.
 
 ---
 
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sylnzy&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sylnzy&theme=tokyonight" alt="GitHub Streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sylnzy&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
+
+---
+
 ## 🏆 Achievements
 - GitHub **Pull Shark** & **YOLO** badges  
 - Actively contributing to academic projects and personal experiments in software development  
